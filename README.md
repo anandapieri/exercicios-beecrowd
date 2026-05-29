@@ -20,17 +20,17 @@ Este repositório foi criado com o objetivo de:
 
 ## Estrutura do Repositório
 
-📁 exercicios-beecrowd
-│
-├── iniciante/
-├── strings/
-├── matematica/
-├── matrizes/
-├── estruturas-e-bibliotecas/
-├── ad-hoc/
-├── tentativas/
-│
-└── README.md
+    📁 exercicios-beecrowd
+    │
+    ├── iniciante/
+    ├── strings/
+    ├── matematica/
+    ├── matrizes/
+    ├── estruturas-e-bibliotecas/
+    ├── ad-hoc/
+    ├── tentativas/
+    │
+    └── README.md
 
 ## Categorias
 
@@ -160,4 +160,3 @@ Ao longo destes exercícios, são praticados conceitos como:
 ## Autora
 
 Desenvolvido por Ananda Pieri.
-
