@@ -1,3 +1,4 @@
+
 # Exercícios Beecrowd
 
 Repositório com soluções de exercícios da plataforma Beecrowd desenvolvidas em Python para prática de lógica de programação, algoritmos e estruturas de dados.
@@ -19,7 +20,7 @@ Este repositório foi criado com o objetivo de:
 - GitHub
 
 ## Estrutura do Repositório
-
+    
     📁 exercicios-beecrowd
     │
     ├── iniciante/
@@ -131,17 +132,23 @@ Objetivos:
 
 ## Como executar os exercícios
 
-1.Clone o repositório:
+1. Clone o repositório:
 
-    git clone LINK_DO_REPOSITORIO
+```bash
+git clone LINK_DO_REPOSITORIO
+```
 
 2. Acesse a pasta:
 
-    cd exercicios-beecrowd
+```bash
+cd exercicios-beecrowd
+```
 
 3. Execute um exercício:
 
-    python strings/1238-combinador.py
+```bash
+python strings/1238-combinador.py
+```
 
 ## Aprendizados
 
