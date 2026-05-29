@@ -131,7 +131,7 @@ Objetivos:
 
 ## Como executar os exercícios
 
-1. Clone o repositório:
+1.Clone o repositório:
 
     git clone LINK_DO_REPOSITORIO
 
